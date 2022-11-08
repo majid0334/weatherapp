@@ -1,0 +1,62 @@
+body{
+  margin: 0px;
+}
+
+
+.status{
+text-align: center;
+padding-bottom: 0px;
+margin-top: 0px;
+font-family: 'Luxurious Script', cursive;
+
+}
+
+.container{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#temp{
+  color: white;
+  font-size: 50px;
+}
+
+
+#symbol{
+  color: white;
+  font-size: 30px;
+
+}
+
+#nederbörd{
+  color: white;
+  font-size: 30px;
+}
+
+
+
+#vindhastighet{
+  color: white;
+  font-size: 30px;
+}
+
+#kategori{
+  color: white;
+  font-size: 40px;
+}
+
+#Airpressure{
+  color: white;
+  font-size: 30px;
+}
+
+#fukthet {
+  color: white;
+  font-size: 30px;
+}
+
+.stad{
+  color: white;
+  font-size: 70px;
+
+}
